@@ -1,0 +1,13 @@
+# Ignorar arquivos temporários e binários pesados
+node_modules/
+dist/
+dist-electron/
+release/
+*.exe
+*.zip
+*.tar.gz
+*.blockmap
+*.log
+.env
+.DS_Store
+Thumbs.db
